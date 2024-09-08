@@ -3,7 +3,7 @@
 
 谷种入田野，又是一个好时节。
 
-和 [HenryZeng-Zero](https://github.com/HenryZeng-Zero) 一起琢磨出来的😂
+和 [HenryZeng](https://github.com/HenryZeng-Zero) 一起琢磨出来的😂
 
 演示视频
 
