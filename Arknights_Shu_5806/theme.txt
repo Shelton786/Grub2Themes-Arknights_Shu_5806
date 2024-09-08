@@ -1,0 +1,34 @@
+title-text: ""
+desktop-image: "background.png"
+terminal-font: "msyh.pf2"
+terminal-left: "0"
+terminal-top: "0"
+terminal-border: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+
++ boot_menu {
+  left = 70%
+  top = 32%
+  width = 502
+  height = 35%
+  item_font = "msyh.pf2"
+  item_color = "#cccccc"
+  selected_item_color = "#ffffff"
+  item_icon_space = 25
+  item_height = 50
+  item_padding = 20
+  item_spacing = 25
+  selected_item_pixmap_style = "select_*.png"
+}
+
++ label {
+  left = 70%
+  top = 84%
+  width = 502
+  align = "left"
+  id = "__timeout__"
+  text = "当前已选中系统将会在 %d 秒后启动"
+  color = "#cccccc"
+  font = "msyh.pf2"
+}
